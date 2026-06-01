@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a38a0047-6601-4c1f-8cc0-f3c46266fdec" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_albin_u3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main_albin_u3.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Abbiz00"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Abbiz00/Veckouppgift-3",
+    "accountId": "47820735-aa3b-4eda-ac11-4fbc97d48936"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -69,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1780046218129</updated>
       <workItem from="1780046219214" duration="6241000" />
-      <workItem from="1780056096472" duration="55199000" />
+      <workItem from="1780056096472" duration="57215000" />
     </task>
     <task id="LOCAL−00001" summary="update">
       <option name="closed" value="true" />
@@ -85,7 +96,14 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1780269469698</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="update">
+      <option name="closed" value="true" />
+      <created>1780271775232</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1780271775232</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
